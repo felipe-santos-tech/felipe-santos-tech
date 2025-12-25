@@ -18,13 +18,6 @@ Me chamo Felipe Santos, sou Analista de Sistemas com experiência em automação
             src="https://custom-icon-badges.demolab.com/github/followers/felipe-santos-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/felipe-santos-tech">
-        <img
-            alt="Repositórios"
-            title="Total de repositórios"
-            src="https://custom-icon-badges.demolab.com/github/repo-size/felipe-santos-tech?color=%234CC61E&style=for-the-badge&logo=github&label=Repositórios"
-        />
-    </a>
 </p>
 ---
 ### 🤖 Linguagens e Tecnologias
