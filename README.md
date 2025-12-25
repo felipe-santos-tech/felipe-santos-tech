@@ -11,13 +11,6 @@ Me chamo Felipe Santos, sou Analista de Sistemas com experiência em automação
             src="https://custom-icon-badges.demolab.com/github/stars/felipe-santos-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/felipe-santos-tech?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/felipe-santos-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -103,23 +96,3 @@ Me chamo Felipe Santos, sou Analista de Sistemas com experiência em automação
 />
 <br/>
 <br/>
-### 📊 Estatísticas
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-<img
-      align="left"
-      alt="Top Languages"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
-
-**Dica:** Se o seu username no GitHub não for exatamente `felipe-santos-tech`, troque nos links e imagens acima pelo seu real (ex: se for `seuusername`, mude todos para `seuusername`). As badges e stats vão atualizar automaticamente!
-
-Cole isso no README.md do seu perfil no GitHub que vai ficar idêntico ao estilo da Larissa, mas com o seu conteúdo. Se quiser adicionar LinkedIn ou outras redes, é só incluir mais badges. 🚀
