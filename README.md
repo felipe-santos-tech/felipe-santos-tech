@@ -1,11 +1,18 @@
 # 👨‍💻 Felipe Santos
-**`Analista de Sistemas & Desenvolvedor Android`**
+**`Desenvolvedor Fullstack`**
 
-Me chamo Felipe Santos, sou Analista de Sistemas com experiência em automação empresarial para o setor de construção civil e estudante de Engenharia de Software. Apaixonado por tecnologia, desenvolvo soluções mobile robustas em Android, otimizações em banco de dados SQL e automações que aumentam a eficiência e reduzem erros em processos reais de empresas.
+Olá! Me chamo Felipe Santos, Analista de Sistemas em transição para Engenharia de Software.
+
+Apaixonado por tecnologia, desenvolvo aplicativos Android nativos robustos (Kotlin/Java), com foco em integração e otimização de bancos de dados SQL, além de automações que aumentam a eficiência, reduzem erros e agilizam processos empresariais reais.
+
+Sempre aberto a novos desafios e oportunidades! 🚀
 
    <p align="left">
       <a href="https://www.linkedin.com/in/felipe-santos-tech/">
-         <img alt="followers" title="Conectar no Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Linkedin&logoColor=white"/></a>
+         <img alt="LinkedIn" title="Conectar no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236ad3.svg?logo=person-add&logoColor=white&style=for-the-badge"/>
+      </a>
+      <a href="https://felipe-santos-tech.github.io">
+         <img alt="Portfólio" title="Acessar meu Portfólio" src="https://custom-icon-badges.demolab.com/badge/Portfólio-236ad3.svg?logo=globe&logoColor=white&style=for-the-badge&background=FFD700"/>
       </a>
    </p>
 
@@ -13,138 +20,81 @@ Me chamo Felipe Santos, sou Analista de Sistemas com experiência em automação
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img align="left" alt="Java" 
+title="Java" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
-<br/>
-<br/>
+<img align="left" alt="Kotlin" 
+title="Kotlin" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+
+<img align="left" alt="Android" 
+title="Android" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
+
+<img align="left" alt="Android Studio" 
+title="Android Studio" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+
+<img align="left" alt="Delphi" 
+title="Delphi" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
+
+<img align="left" alt="SQLite" 
+title="SQLite" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+
+<img align="left" alt="MySQL" 
+title="MySQL" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="Git" 
+title="Git" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<img align="left" alt="HTML5" 
+title="HTML5" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="CSS3" 
+title="CSS3" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+<img align="left" alt="JavaScript" 
+title="JavaScript" 
+width="30px" 
+style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+<br clear="both"/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img align="left" 
+height="200" alt="GitHub Stats" 
+src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img align="left" 
+height="200" alt="Top Langs" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias Mais Usadas&langs_count=9" />
 
-</p>
+<br clear="both"/>
