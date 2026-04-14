@@ -88,7 +88,7 @@ width="30px"
 style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
 <br clear="both"/>
-
+<!--
 ### 📊 Estatísticas
 
 <img align="left" 
@@ -100,3 +100,4 @@ height="200" alt="Top Langs"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias Mais Usadas&langs_count=9" />
 
 <br clear="both"/>
+-->
