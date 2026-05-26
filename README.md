@@ -1,124 +1,228 @@
-<!-- Cabeçalho animado -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" style="border-radius:50%"/>
-
-# `Felipe Santos` 👨‍💻
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Android+Nativo+%7C+Java;SQL+Server+%2F+SSMS;Automações+que+resolvem+problemas+reais)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/felipe-santos-tech/">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236ad3.svg?logo=person-add&logoColor=white&style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://felipe-santos-tech.github.io">
-    <img alt="Portfólio" src="https://custom-icon-badges.demolab.com/badge/Portfólio-FFD700.svg?logo=globe&logoColor=black&style=for-the-badge"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=236AD3&center=true&vCenter=true&width=1000&lines=Felipe+Santos;Software+Engineer+in+Progress;Android+Developer;SQL+Server+Specialist;ERP+Integration+Developer;Automation+Enthusiast" />
 </p>
 
-</div>
+<h1 align="center">👨‍💻 Felipe Santos</h1>
+
+<h3 align="center">
+Transformando processos empresariais em soluções digitais.
+</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/felipe-santos-tech/">
+<img src="https://img.shields.io/badge/LinkedIn-236AD3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://felipe-santos-tech.github.io">
+<img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/E--mail-34A853?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=felipe-santos-tech&style=for-the-badge&color=236AD3"/>
+</p>
 
 ---
 
-## `$ whoami`
+## 🚀 Sobre mim
 
-```java
-Developer felipe = new Developer();
-felipe.nome      = "Felipe Santos";
-felipe.cargo     = "Analista de Sistemas → Engenharia de Software";
-felipe.foco      = new String[]{"Android Nativo", "SQL Server", "Automações"};
-felipe.missao    = "Transformar problemas reais em software eficiente";
-felipe.aprendendo = new String[]{"Engenharia de Software", "Arquitetura"};
-felipe.disponivel = true; // Aberto a novos desafios 🚀
+Sou **Analista de Sistemas** e estudante de **Engenharia de Software**, apaixonado por tecnologia e resolução de problemas reais.
+
+Atualmente atuo no desenvolvimento e manutenção de sistemas corporativos, criando soluções que automatizam processos, reduzem retrabalho e aumentam a produtividade das equipes.
+
+### Áreas de atuação
+
+- 📱 Desenvolvimento Android Nativo
+- 🗄️ SQL Server e modelagem de banco de dados
+- ⚙️ Sistemas ERP em Delphi/Pascal
+- 🔗 Integrações entre sistemas
+- 🤖 Automação de processos corporativos
+- 📊 Desenvolvimento de ferramentas internas
+- 🚀 Engenharia de Software
+
+---
+
+## 🔥 Atualmente
+
+```txt
+📚 Engenharia de Software
+📱 Desenvolvimento Android
+🗄️ SQL Server
+⚙️ ERP Delphi/Pascal
+🔗 Integrações Corporativas
+🚀 Construindo novos projetos
 ```
 
 ---
 
-## `$ ls ./tecnologias`
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<p align="center">
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40"/><br/>
-      <sub><b>Android</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40"/><br/>
-      <sub><b>Android Studio</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="40"/><br/>
-      <sub><b>Delphi</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40"/><br/>
-      <sub><b>SQLite</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/><br/>
-      <sub><b>SQL Server</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql,sqlite,git,github,html,css,js,vscode"/>
+
+</p>
+
+<div align="center">
+
+| Linguagens | Mobile | Banco de Dados | Ferramentas |
+|------------|---------|----------------|-------------|
+| Java | Android | SQL Server | Git |
+| Kotlin | Android Studio | SQLite | GitHub |
+| Delphi | Mobile Native | MySQL | VS Code |
+| Pascal | Java APIs | T-SQL | SSMS |
 
 </div>
 
 ---
 
-## `$ cat status.json`
+## 🚀 Projetos em Destaque
 
-```json
-{
-  "localização": "Brasil 🇧🇷",
-  "foco_atual":  "Android Nativo (Java) + SQL Server / SSMS",
-  "estudando":   "Engenharia de Software",
-  "disponível":  true
-}
+### 📱 Sistema de Checklist para Reforma de Betoneiras
+
+Aplicativo Android desenvolvido para gerenciamento de inspeções técnicas de caminhões em reforma.
+
+#### Funcionalidades
+
+✅ Seleção de modelos de betoneiras
+
+✅ Checklist técnico completo
+
+✅ Registro de peças para substituição
+
+✅ Integração com banco SQL Server
+
+✅ Comunicação com ERP corporativo
+
+✅ Geração de propostas comerciais
+
+---
+
+### ⚙️ Integrações Corporativas
+
+Desenvolvimento de soluções internas para conectar setores e eliminar processos manuais.
+
+#### Benefícios
+
+✅ Redução de retrabalho
+
+✅ Menos erros operacionais
+
+✅ Processos mais rápidos
+
+✅ Melhor rastreabilidade
+
+---
+
+### 🎁 Lista de Casamento Interativa
+
+Site responsivo hospedado via GitHub Pages.
+
+#### Tecnologias
+
+✅ HTML5
+
+✅ CSS3
+
+✅ JavaScript
+
+✅ GitHub Pages
+
+---
+
+## 💡 O que gosto de construir
+
+```txt
+📱 Aplicativos Android
+🗄️ Sistemas baseados em SQL
+⚙️ Integrações ERP
+🤖 Automações de processos
+📊 Ferramentas corporativas
+🚀 Soluções para produtividade
 ```
 
 ---
 
-## `$ git log --oneline` — Estatísticas
+## 📈 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
 
-<img height="180" alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=tokyonight&locale=pt-br"/>
 
-<img height="180" alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=github_dark&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=9&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=tokyonight&layout=compact"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 🏆 Conquistas
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1T23/giphy.gif" width="60"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=felipe-santos-tech&theme=tokyonight&row=1&column=6"/>
+</p>
 
-*Sempre aberto a novos desafios e oportunidades!*
+---
 
-</div>
+## 🛤️ Minha Jornada
+
+```mermaid
+timeline
+    title Evolução Profissional
+
+    2023 : Suporte Técnico
+
+    2024 : Analista Técnico de Informática
+
+    2025 : Desenvolvimento Android
+         : SQL Server
+         : Integrações ERP
+
+    2026 : Engenharia de Software
+         : Projetos Corporativos
+
+    Futuro : Software Engineer 🚀
+```
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Desenvolvimento Android Moderno
+- Banco de Dados Avançado
+- APIs REST
+- Design Patterns
+- Clean Code
+- Engenharia de Software
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/felipe-santos-tech/">
+<img src="https://img.shields.io/badge/LinkedIn-236AD3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://felipe-santos-tech.github.io">
+<img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💡 _"Tecnologia não é apenas código. É transformar problemas em soluções."_
+
+</p>
