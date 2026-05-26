@@ -202,13 +202,13 @@ ADICIONE NOVOS PROJETOS ABAIXO SEGUINDO O MESMO PADRÃO
   "cafe_por_dia": "muito ☕"
 }
 ```
-
+<!--xxx
 ---
 
 <!-- ========================================================= -->
 <!-- ESTATÍSTICAS -->
 <!-- ========================================================= -->
-
+<!-- xxx
 ## // github
 
 <p align="center">
