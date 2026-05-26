@@ -45,11 +45,8 @@ Atualmente trabalho com **Android Nativo**, **SQL Server**, sistemas **ERP** e a
 <td width="30%" align="center">
 
 <!-- Troque pela sua foto ou avatar futuramente -->
-<img
-src="https://github.com/felipe-santos-tech.png"
-width="160"
-style="border-radius:50%; border:3px solid #3fb950;"
-/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FxY2gxZDd6ZGp1eWZndTdyZXRyem00am9uemQwZG1jaGduNXpnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="220"/>
+
 
 </td>
 
