@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Texto animado do topo -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=3FB950&center=true&vCenter=true&width=280&lines=%E2%96%B8+Android+Developer;%E2%96%B8+SQL+Server;E2%96%B8+ERP+Integration" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=3FB950&center=true&vCenter=true&width=280&lines=%E2%96%B8+Android+Developer;%E2%96%B8+SQL+Server;%E2%96%B8+ERP+Integration" />
 
 </div>
 
