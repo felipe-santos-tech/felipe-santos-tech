@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Texto animado do topo -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=3FB950&center=true&vCenter=true&width=280&lines=%E2%96%B8+Android+Developer;%E2%96%B8+SQL+Server+Developer;%E2%96%B8+ERP+Integration" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=3FB950&center=true&vCenter=true&width=280&lines=%E2%96%B8+Android+Developer;%E2%96%B8+SQL+Server;E2%96%B8+ERP+Integration" />
 
 </div>
 
@@ -45,7 +45,11 @@ Atualmente trabalho com **Android Nativo**, **SQL Server**, sistemas **ERP** e a
 <td width="30%" align="center">
 
 <!-- Troque pela sua foto ou avatar futuramente -->
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="140"/>
+<img
+src="https://github.com/felipe-santos-tech.png"
+width="160"
+style="border-radius:50%; border:3px solid #3fb950;"
+/>
 
 </td>
 
