@@ -1,51 +1,90 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=236AD3&center=true&vCenter=true&width=900&lines=Felipe+Santos;Android+Developer;SQL+Server+Specialist;ERP+Integration+Developer" />
-</p>
+<!-- Cabeçalho animado -->
+<div align="center">
 
-# 👋 Olá, eu sou Felipe Santos
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" style="border-radius:50%"/>
 
-💻 Analista de Sistemas e estudante de Engenharia de Software.
+# `Felipe Santos` 👨‍💻
 
-Atuo com desenvolvimento Android, SQL Server e integração de sistemas ERP, criando soluções que automatizam processos e aumentam a produtividade das empresas.
-
-### 🚀 Tecnologias
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Android+Nativo+%7C+Java;SQL+Server+%2F+SSMS;Automações+que+resolvem+problemas+reais)](https://git.io/typing-svg)
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql,sqlite,git,github,html,css,js" />
+  <a href="https://www.linkedin.com/in/felipe-santos-tech/">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236ad3.svg?logo=person-add&logoColor=white&style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://felipe-santos-tech.github.io">
+    <img alt="Portfólio" src="https://custom-icon-badges.demolab.com/badge/Portfólio-FFD700.svg?logo=globe&logoColor=black&style=for-the-badge"/>
+  </a>
 </p>
 
----
-
-### 📌 Projetos em destaque
-
-📱 **Checklist de Betoneiras**
-- Aplicativo Android
-- Integração SQL Server
-- Geração de propostas comerciais
-
-⚙️ **Integrações ERP**
-- Delphi/Pascal
-- Automação de processos
-- Redução de retrabalho
-
-🌐 **Portfólio Pessoal**
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
+</div>
 
 ---
 
-### 📊 GitHub
+## `$ whoami`
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&layout=compact&theme=tokyonight"/>
-</p>
+```java
+Developer felipe = new Developer();
+felipe.nome      = "Felipe Santos";
+felipe.cargo     = "Analista de Sistemas → Engenharia de Software";
+felipe.foco      = new String[]{"Android Nativo", "SQL Server", "Automações"};
+felipe.missao    = "Transformar problemas reais em software eficiente";
+felipe.aprendendo = new String[]{"Engenharia de Software", "Arquitetura"};
+felipe.disponivel = true; // Aberto a novos desafios 🚀
+```
 
 ---
 
-### 📫 Contato
+## `$ ls ./tecnologias`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-236AD3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-tech/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://felipe-santos-tech.github.io)
+<div align="left">
+
+<img alt="Java" title="Java" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img alt="Android" title="Android" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
+<img alt="Android Studio" title="Android Studio" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+<img alt="Delphi" title="Delphi" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
+<img alt="SQLite" title="SQLite (Android)" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+<img alt="SQL Server" title="SQL Server / SSMS" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+<img alt="Git" title="Git" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img alt="HTML5" title="HTML5" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+</div>
+
+---
+
+## `$ cat status.json`
+
+```json
+{
+  "localização": "Brasil 🇧🇷",
+  "foco_atual":  "Android Nativo (Java) + SQL Server / SSMS",
+  "estudando":   "Engenharia de Software",
+  "disponível":  true
+}
+```
+
+---
+
+## `$ git log --oneline` — Estatísticas
+
+<div align="center">
+
+<img height="180" alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
+
+<img height="180" alt="Top Langs"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=github_dark&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=9&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1T23/giphy.gif" width="60"/>
+
+*Sempre aberto a novos desafios e oportunidades!*
+
+</div>
