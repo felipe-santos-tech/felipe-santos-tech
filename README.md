@@ -1,92 +1,237 @@
-<!-- Cabeçalho animado -->
+<!-- ========================================================= -->
+<!-- HEADER -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" style="border-radius:50%"/>
-
-# `Felipe Santos` 👨‍💻
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Android+Nativo+%7C+Kotlin+%2F+Java;Integra%C3%A7%C3%A3o+%26+Otimiza%C3%A7%C3%A3o+SQL;Automações+que+resolvem+problemas+reais)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/felipe-santos-tech/">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236ad3.svg?logo=person-add&logoColor=white&style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://felipe-santos-tech.github.io">
-    <img alt="Portfólio" src="https://custom-icon-badges.demolab.com/badge/Portfólio-FFD700.svg?logo=globe&logoColor=black&style=for-the-badge"/>
-  </a>
-</p>
+<!-- Texto animado do topo -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=3FB950&center=true&vCenter=true&width=280&lines=%E2%96%B8+Android+Developer;%E2%96%B8+SQL+Server+Developer;%E2%96%B8+ERP+Integration" />
 
 </div>
 
+<!-- ========================================================= -->
+<!-- APRESENTAÇÃO -->
+<!-- ========================================================= -->
+
+<table>
+<tr>
+
+<td width="70%">
+
+# Felipe Santos 👋
+
+Analista de Sistemas e estudante de **Engenharia de Software**.
+
+Gosto de pegar processos que dão dor de cabeça e transformar em software.
+
+Atualmente trabalho com **Android Nativo**, **SQL Server**, sistemas **ERP** e automações que ajudam equipes a gastar menos tempo com tarefas repetitivas e mais tempo resolvendo o que realmente importa.
+
+🚀 Sempre aprendendo alguma coisa nova e construindo projetos.
+
+<br>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/felipe-santos-tech/">
+<img src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Portfólio -->
+<a href="https://felipe-santos-tech.github.io">
+<img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="30%" align="center">
+
+<!-- Troque pela sua foto ou avatar futuramente -->
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="140"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## `$ whoami`
+<!-- ========================================================= -->
+<!-- SOBRE MIM -->
+<!-- ========================================================= -->
 
-```kotlin
-val felipe = Developer(
-    nome      = "Felipe Santos",
-    cargo     = "Analista de Sistemas → Engenharia de Software",
-    foco      = listOf("Android Nativo", "SQL", "Automações"),
-    missao    = "Transformar problemas reais em software eficiente",
-    aprendendo = listOf("Kotlin", "Arquitetura de Software"),
-    disponivel = true  // Aberto a novos desafios 🚀
-)
+## // sobre_mim
+
+```java
+Developer felipe = new Developer();
+
+felipe.nome = "Felipe Santos";
+
+felipe.foco = new String[]{
+    "Android",
+    "SQL Server",
+    "Integrações ERP",
+    "Automações"
+};
+
+felipe.estudando = new String[]{
+    "Engenharia de Software",
+    "Arquitetura de Software"
+};
+
+felipe.disponivel = true;
 ```
 
 ---
 
-## `$ ls ./tecnologias`
+<!-- ========================================================= -->
+<!-- STACK -->
+<!-- ========================================================= -->
 
-<div align="left">
+## // stack
 
-<img alt="Java" title="Java" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img alt="Kotlin" title="Kotlin" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-<img alt="Android" title="Android" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
-<img alt="Android Studio" title="Android Studio" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
-<img alt="Delphi" title="Delphi" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
-<img alt="SQLite" title="SQLite" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-<img alt="MySQL" title="MySQL" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img alt="Git" title="Git" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img alt="HTML5" title="HTML5" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img alt="CSS3" title="CSS3" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+### 📱 Mobile
 
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" title="SQL Server"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+</p>
+
+### ⚙️ ERP & Corporativo
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40" title="Delphi"/>
+</p>
+
+### 🌐 Web
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+</p>
+
+<!--
+EXEMPLO PARA ADICIONAR NOVA TECNOLOGIA:
+
+<img src="LINK_DO_ICONE" width="40" title="Nome"/>
+
+-->
 
 ---
 
-## `$ cat status.json`
+<!-- ========================================================= -->
+<!-- PROJETOS -->
+<!-- ========================================================= -->
+
+## // projetos
+
+### 📱 Checklist de Betoneiras
+
+Aplicativo Android desenvolvido para inspeções técnicas e geração de informações para o setor comercial.
+
+**Tecnologias**
+- Android
+- Java
+- SQL Server
+- Integração ERP
+
+---
+
+### ⚙️ Automações Corporativas
+
+Ferramentas internas criadas para reduzir retrabalho e agilizar processos administrativos.
+
+**Tecnologias**
+- Delphi
+- SQL Server
+- Automação de Processos
+
+---
+
+### 🌐 Portfólio
+
+Site pessoal hospedado via GitHub Pages.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+<!--
+ADICIONE NOVOS PROJETOS ABAIXO SEGUINDO O MESMO PADRÃO
+-->
+
+---
+
+<!-- ========================================================= -->
+<!-- STATUS -->
+<!-- ========================================================= -->
+
+## // status_atual
 
 ```json
 {
-  "localização": "Brasil 🇧🇷",
-  "foco_atual":  "Android Nativo + Otimização SQL",
-  "estudando":   "Engenharia de Software",
-  "disponível":  true
+  "localizacao": "Brasil 🇧🇷",
+  "atuacao": "Android + SQL Server",
+  "curso": "Engenharia de Software",
+  "status": "Disponível",
+  "cafe_por_dia": "muito ☕"
 }
 ```
 
 ---
 
-## `$ git log --oneline` — Estatísticas
+<!-- ========================================================= -->
+<!-- ESTATÍSTICAS -->
+<!-- ========================================================= -->
 
-<div align="center">
+## // github
 
-<img height="180" alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
+<p align="center">
 
-<img height="180" alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&theme=github_dark&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=9&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=felipe-santos-tech&show_icons=true&theme=github_dark&hide_border=true"/>
 
-</div>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-tech&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<!--
+SE QUISER ADICIONAR O STREAK FUTURAMENTE:
+
+<img
+src="https://streak-stats.demolab.com?user=felipe-santos-tech&theme=github-dark&hide_border=true"/>
+-->
 
 ---
 
+<!-- ========================================================= -->
+<!-- FRASE FINAL -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1T23/giphy.gif" width="60"/>
-
-*Sempre aberto a novos desafios e oportunidades!*
+💡 *A melhor automação é aquela que faz alguém nunca mais precisar executar a mesma tarefa duas vezes.*
 
 </div>
