@@ -22,7 +22,7 @@
 
 Analista de Sistemas e estudante de **Engenharia de Software**.
 
-Gosto de pegar processos que dão dor de cabeça e transformar em software.
+Gosto de processos que dão dor de cabeça e transformar em software.
 
 Atualmente trabalho com **Android Nativo**, **SQL Server**, sistemas **ERP** e automações que ajudam equipes a gastar menos tempo com tarefas repetitivas e mais tempo resolvendo o que realmente importa.
 
