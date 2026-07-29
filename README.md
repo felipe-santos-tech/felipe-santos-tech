@@ -158,6 +158,19 @@ Aplicativo Android desenvolvido para inspeções técnicas e geração de inform
 
 ---
 
+### 📱 Aplicativo SESMT (Entrega de E.P.I/E.P.C)
+
+Aplicativo Android desenvolvido para o setor de Segurança do trabalho em conjunto com RH, onde é realizado entrega de equipamentos de proteção por meio de um dispositivo móvel e coletar a assinatura do colaborador
+
+**Tecnologias**
+- Android
+- Java
+- SQL Server
+- Integração ERP
+
+---
+
+
 ### ⚙️ Automações Corporativas
 
 Ferramentas internas criadas para reduzir retrabalho e agilizar processos administrativos.
