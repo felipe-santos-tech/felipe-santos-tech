@@ -20,7 +20,7 @@
 
 # Felipe Santos 👋
 
-Analista de Sistemas e estudante de **Engenharia de Software**.
+*Desenvolvedor de Sistemas*
 
 Gosto de processos que dão dor de cabeça e transformar em software.
 
