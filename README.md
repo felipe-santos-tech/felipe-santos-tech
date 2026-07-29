@@ -148,7 +148,7 @@ EXEMPLO PARA ADICIONAR NOVA TECNOLOGIA:
 
 ### 📱 Checklist de Betoneiras
 
-Aplicativo Android desenvolvido para inspeções técnicas e geração de informações para o setor comercial.
+Aplicativo Android nativo para digitalização de inspeções técnicas em equipamentos. Permite a execução de checklists, registro de evidências e coleta de dados em campo, fornecendo informações confiáveis para análise técnica e suporte às atividades do setor comercial e geração de propostas comerciais corretas.
 
 **Tecnologias**
 - Android
@@ -160,7 +160,7 @@ Aplicativo Android desenvolvido para inspeções técnicas e geração de inform
 
 ### 📱 Aplicativo SESMT (Entrega de E.P.I/E.P.C)
 
-Aplicativo Android desenvolvido para o setor de Segurança do trabalho em conjunto com RH, onde é realizado entrega de equipamentos de proteção por meio de um dispositivo móvel e coletar a assinatura do colaborador
+Aplicativo Android nativo desenvolvido para digitalizar o processo de entrega de Equipamentos de Proteção Individual (EPIs). A solução permite o registro das entregas em dispositivos móveis, coleta de assinatura digital dos colaboradores e emissão de relatórios em conformidade com a NR-6, aumentando a rastreabilidade, reduzindo o uso de papel e fortalecendo a segurança jurídica da empresa.
 
 **Tecnologias**
 - Android
