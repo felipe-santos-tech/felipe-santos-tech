@@ -36,7 +36,7 @@ Atualmente trabalho com **Android Nativo**, **SQL Server**, sistemas **ERP** e a
 </a>
 
 <!-- Portfólio -->
-<a href="https://felipe-santos-tech.github.io">
+<a href="https://ofelipesantos.com.br">
 <img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
